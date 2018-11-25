@@ -6,21 +6,21 @@
 - let me know if there exists any later versions of react native with the same stability and maturity you found somewhere. thank you
 
 # requirement
-1. windows
-2. elevated privilege console (cmd)
-3. nodejs + npm
-4. yarn (`npm i -g yarn`)
-5. react-native (`npm i -g react-native`)
+- windows
+- elevated privilege console (cmd)
+- nodejs + npm
+- yarn (`npm i -g yarn`)
+- react-native (`npm i -g react-native`)
 
 # installation
 1. copy this repo to a local working directory
-2. edit android/local.properties. point to your android SDK location 
+2. edit `android/local.properties`. set `sdk.dir` to your android sdk directory location
 3. go to working directory from console
 4. `yarn`
 
-# project run
+# run
 1. connect device or run android simulator
 2. go to working directory from console
 3. `react-native run-android`
 4. expected : metro bundler console window is running and app is running showing a greeting message
-5. if not, don't hesitate to add your issue here
+5. if not, don't hesitate to submit your issue here
