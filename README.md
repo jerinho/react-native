@@ -1,9 +1,9 @@
 # scaffolding codebase for react native
-react native version : 0.55.4
-for WINDOWS only. other platforms will be supported soon
-as for now this is for ANDROID only
-for native react native 's installation only. expo based project not supported
-let me know if there exists any later versions of react native with the same stability and maturity you found somewhere. thank you
+- react native version : 0.55.4
+- for WINDOWS only. other platforms will be supported soon
+- as for now this is for ANDROID only
+- for native react native 's installation only. expo based project not supported
+- let me know if there exists any later versions of react native with the same stability and maturity you found somewhere. thank you
 
 # requirement
 1. windows
@@ -17,9 +17,9 @@ let me know if there exists any later versions of react native with the same sta
 2. edit android/local.properties. point to your android SDK location 
 3. go to working directory from console
 4. run these by order
-> yarn
-> cd android
-> gradlew.bat installDebug
+> - yarn
+> - cd android
+> - gradlew.bat installDebug
 
 # project run
 1. connect device or run android simulator
