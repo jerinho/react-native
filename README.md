@@ -9,8 +9,8 @@
 1. windows
 2. elevated privilege console (cmd)
 3. nodejs + npm
-4. yarn (installed using "npm install yarn")
-5. react-native (installed using "npm install react-native")
+4. yarn (`npm i -g yarn`)
+5. react-native (`npm i -g react-native`)
 
 # installation
 1. copy this repo to a local working directory
